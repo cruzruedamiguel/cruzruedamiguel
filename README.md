@@ -24,3 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cruzruedamiguel&show_icons=true&locale=en" alt="cruzruedamiguel" /></p>
 
+<!-- 
+Update using:
+https://rahuldkjain.github.io/gh-profile-readme-generator/ 
+-->
