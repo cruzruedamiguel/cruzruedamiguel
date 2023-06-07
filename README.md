@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available at [my github profile](https://github.com/cruzruedamiguel)
 
 - 💬 Ask me about **my adventures travelling!**
 
