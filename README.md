@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">An Industrial engineering student that learning to program</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cruzruedamiguel" alt="cruzruedamiguel" /></a> </p>
-
 - 🔭 I’m currently working on **small educational projects and apps**
 
 - 🌱 I’m currently learning **Python and SQL**
